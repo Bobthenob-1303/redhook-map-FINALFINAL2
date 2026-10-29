@@ -1,0 +1,4162 @@
+[
+  {
+    "bbl": "3003440058",
+    "address": "181 PRESIDENT STREET",
+    "longitude": -73.9995926,
+    "latitude": 40.682836,
+    "landUse": "01",
+    "salePrice": 7500000.0,
+    "saleDate": "2026-06-18",
+    "hasSale": true
+  },
+  {
+    "bbl": "3004600007",
+    "address": "16 2 STREET",
+    "longitude": -73.9950283,
+    "latitude": 40.6790125,
+    "landUse": "01",
+    "salePrice": 5500000.0,
+    "saleDate": "2026-02-25",
+    "hasSale": true
+  },
+  {
+    "bbl": "3004670021",
+    "address": "128 3 PLACE",
+    "longitude": -73.9967985,
+    "latitude": 40.6781232,
+    "landUse": "01",
+    "salePrice": 4999500.0,
+    "saleDate": "2026-09-22",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003390124",
+    "address": "296A SACKETT STREET",
+    "longitude": -73.996207,
+    "latitude": 40.6830199,
+    "landUse": "01",
+    "salePrice": 5850000.0,
+    "saleDate": "2026-07-30",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003540044",
+    "address": "131 SUMMIT STREET",
+    "longitude": -74.00159,
+    "latitude": 40.681944,
+    "landUse": "01",
+    "salePrice": 3750000.0,
+    "saleDate": "2026-03-16",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003820036",
+    "address": "560 COURT STREET",
+    "longitude": -73.9998234,
+    "latitude": 40.6748158,
+    "landUse": "04",
+    "salePrice": 2652026.0,
+    "saleDate": "2026-03-31",
+    "hasSale": true
+  },
+  {
+    "bbl": "3004740004",
+    "address": "491 COURT STREET",
+    "longitude": -73.9986625,
+    "latitude": 40.6760153,
+    "landUse": "01",
+    "salePrice": 2100000.0,
+    "saleDate": "2026-02-11",
+    "hasSale": true
+  },
+  {
+    "bbl": "3004740038",
+    "address": "203 HUNTINGTON STREET",
+    "longitude": -73.9979054,
+    "latitude": 40.675738,
+    "landUse": "01",
+    "salePrice": 3490000.0,
+    "saleDate": "2026-06-25",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003370004",
+    "address": "178 SACKETT STREET",
+    "longitude": -74.0007464,
+    "latitude": 40.684288,
+    "landUse": "02",
+    "salePrice": 3175000.0,
+    "saleDate": "2025-12-29",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003440017",
+    "address": "210 UNION STREET",
+    "longitude": -73.9990337,
+    "latitude": 40.6830446,
+    "landUse": "02",
+    "salePrice": 4999999.0,
+    "saleDate": "2026-05-18",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003610007",
+    "address": "58 1 PLACE",
+    "longitude": -73.9986191,
+    "latitude": 40.6804865,
+    "landUse": "02",
+    "salePrice": 4675000.0,
+    "saleDate": "2026-05-21",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003730018",
+    "address": "22 4 PLACE",
+    "longitude": -74.0012691,
+    "latitude": 40.6784444,
+    "landUse": "02",
+    "salePrice": 3425000.0,
+    "saleDate": "2025-12-30",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003730035",
+    "address": "532 CLINTON STREET",
+    "longitude": -74.000548,
+    "latitude": 40.6779448,
+    "landUse": "02",
+    "salePrice": 4995000.0,
+    "saleDate": "2026-01-23",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003740006",
+    "address": "517 CLINTON STREET",
+    "longitude": -73.9999748,
+    "latitude": 40.6779613,
+    "landUse": "02",
+    "salePrice": 2995000.0,
+    "saleDate": "2026-04-07",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003740027",
+    "address": "92 4 PLACE",
+    "longitude": -73.9986444,
+    "latitude": 40.6777143,
+    "landUse": "02",
+    "salePrice": 3200000.0,
+    "saleDate": "2026-08-14",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003760033",
+    "address": "544 CLINTON STREET",
+    "longitude": -74.0007895,
+    "latitude": 40.6775084,
+    "landUse": "02",
+    "salePrice": 2000000.0,
+    "saleDate": "2026-07-14",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003770044",
+    "address": "157A NELSON STREET",
+    "longitude": -73.9994484,
+    "latitude": 40.6769046,
+    "landUse": "02",
+    "salePrice": 3000000.0,
+    "saleDate": "2026-09-22",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003810043",
+    "address": "163 WEST 9 STREET",
+    "longitude": -73.999845,
+    "latitude": 40.6755541,
+    "landUse": "02",
+    "salePrice": 4033333.0,
+    "saleDate": "2026-04-02",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003810044",
+    "address": "161 WEST 9 STREET",
+    "longitude": -73.9999315,
+    "latitude": 40.6755761,
+    "landUse": "02",
+    "salePrice": 4033333.0,
+    "saleDate": "2026-04-02",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003810045",
+    "address": "159 WEST 9 STREET",
+    "longitude": -74.000018,
+    "latitude": 40.6756008,
+    "landUse": "02",
+    "salePrice": 4033333.0,
+    "saleDate": "2026-06-30",
+    "hasSale": true
+  },
+  {
+    "bbl": "3004590043",
+    "address": "109 2 PLACE",
+    "longitude": -73.9967372,
+    "latitude": 40.6796136,
+    "landUse": "02",
+    "salePrice": 4525000.0,
+    "saleDate": "2026-06-30",
+    "hasSale": true
+  },
+  {
+    "bbl": "3004670017",
+    "address": "120 3 PLACE",
+    "longitude": -73.9970725,
+    "latitude": 40.6781973,
+    "landUse": "02",
+    "salePrice": 4000000.0,
+    "saleDate": "2026-09-18",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003380031",
+    "address": "392 CLINTON STREET",
+    "longitude": -73.9979268,
+    "latitude": 40.6834618,
+    "landUse": "02",
+    "salePrice": 1000000.0,
+    "saleDate": "2026-03-17",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003380039",
+    "address": "239 UNION STREET",
+    "longitude": -73.9983126,
+    "latitude": 40.6833109,
+    "landUse": "02",
+    "salePrice": 4100000.0,
+    "saleDate": "2026-01-08",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003440020",
+    "address": "216 UNION STREET",
+    "longitude": -73.998821,
+    "latitude": 40.682987,
+    "landUse": "02",
+    "salePrice": 3700000.0,
+    "saleDate": "2025-10-28",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003440022",
+    "address": "220 UNION STREET",
+    "longitude": -73.998684,
+    "latitude": 40.6829486,
+    "landUse": "02",
+    "salePrice": 4200000.0,
+    "saleDate": "2026-02-27",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003440023",
+    "address": "222 UNION STREET",
+    "longitude": -73.9986227,
+    "latitude": 40.6829321,
+    "landUse": "02",
+    "salePrice": 3195000.0,
+    "saleDate": "2026-09-01",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003440027",
+    "address": "230 UNION STREET",
+    "longitude": -73.9983955,
+    "latitude": 40.682869,
+    "landUse": "02",
+    "salePrice": 3890000.0,
+    "saleDate": "2026-01-06",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003490013",
+    "address": "158 PRESIDENT STREET",
+    "longitude": -74.000923,
+    "latitude": 40.6828141,
+    "landUse": "02",
+    "salePrice": 4200000.0,
+    "saleDate": "2025-12-17",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003590011",
+    "address": "140 SUMMIT STREET",
+    "longitude": -74.0017991,
+    "latitude": 40.681535,
+    "landUse": "02",
+    "salePrice": 3650000.0,
+    "saleDate": "2025-10-20",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003590017",
+    "address": "152 SUMMIT STREET",
+    "longitude": -74.0014097,
+    "latitude": 40.681428,
+    "landUse": "02",
+    "salePrice": 3750000.0,
+    "saleDate": "2026-07-31",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003590047",
+    "address": "65 WOODHULL STREET",
+    "longitude": -74.0023724,
+    "latitude": 40.6813648,
+    "landUse": "04",
+    "salePrice": 3400000.0,
+    "saleDate": "2026-05-19",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003600027",
+    "address": "44 1 PLACE",
+    "longitude": -73.9993294,
+    "latitude": 40.6806841,
+    "landUse": "02",
+    "salePrice": 4826250.0,
+    "saleDate": "2026-01-14",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003600040",
+    "address": "29 2 PLACE",
+    "longitude": -73.999863,
+    "latitude": 40.6805332,
+    "landUse": "02",
+    "salePrice": 5500000.0,
+    "saleDate": "2025-10-03",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003610039",
+    "address": "83 2 PLACE",
+    "longitude": -73.9979089,
+    "latitude": 40.6799924,
+    "landUse": "02",
+    "salePrice": 4200000.0,
+    "saleDate": "2025-10-17",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003740013",
+    "address": "62 4 PLACE",
+    "longitude": -73.9996395,
+    "latitude": 40.6779915,
+    "landUse": "02",
+    "salePrice": 5025000.0,
+    "saleDate": "2025-12-10",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003790019",
+    "address": "146 NELSON STREET",
+    "longitude": -73.9998558,
+    "latitude": 40.6765862,
+    "landUse": "02",
+    "salePrice": 3100000.0,
+    "saleDate": "2025-10-16",
+    "hasSale": true
+  },
+  {
+    "bbl": "3004630032",
+    "address": "121 3 PLACE",
+    "longitude": -73.9965209,
+    "latitude": 40.6786722,
+    "landUse": "02",
+    "salePrice": 1950000.0,
+    "saleDate": "2026-08-05",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003390001",
+    "address": "391 CLINTON STREET",
+    "longitude": -73.9975374,
+    "latitude": 40.6829979,
+    "landUse": "02",
+    "salePrice": 2250000.0,
+    "saleDate": "2026-08-10",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003390006",
+    "address": "385 CLINTON STREET",
+    "longitude": -73.9973788,
+    "latitude": 40.6833218,
+    "landUse": "02",
+    "salePrice": 2200000.0,
+    "saleDate": "2026-01-12",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003450050",
+    "address": "233 PRESIDENT STREET",
+    "longitude": -73.9975411,
+    "latitude": 40.682331,
+    "landUse": "02",
+    "salePrice": 1999999.0,
+    "saleDate": "2026-07-17",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003490039",
+    "address": "113 CARROLL STREET",
+    "longitude": -74.0014242,
+    "latitude": 40.6826549,
+    "landUse": "02",
+    "salePrice": 980000.0,
+    "saleDate": "2026-02-02",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003500021",
+    "address": "210 PRESIDENT STREET",
+    "longitude": -73.9988354,
+    "latitude": 40.6822322,
+    "landUse": "02",
+    "salePrice": 1750000.0,
+    "saleDate": "2026-07-16",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003510009",
+    "address": "232 PRESIDENT STREET",
+    "longitude": -73.9979088,
+    "latitude": 40.6820153,
+    "landUse": "02",
+    "salePrice": 1235000.0,
+    "saleDate": "2026-07-30",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003550050",
+    "address": "1 1 PLACE",
+    "longitude": -74.0004579,
+    "latitude": 40.6816256,
+    "landUse": "02",
+    "salePrice": 700000.0,
+    "saleDate": "2026-03-31",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003700055",
+    "address": "3 4 PLACE",
+    "longitude": -74.0015611,
+    "latitude": 40.6791223,
+    "landUse": "02",
+    "salePrice": 650000.0,
+    "saleDate": "2025-10-30",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003710003",
+    "address": "503 CLINTON STREET",
+    "longitude": -73.9996972,
+    "latitude": 40.6786063,
+    "landUse": "02",
+    "salePrice": 2060000.0,
+    "saleDate": "2026-06-29",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003760020",
+    "address": "98 LUQUER STREET",
+    "longitude": -74.0014745,
+    "latitude": 40.6777994,
+    "landUse": "02",
+    "salePrice": 745000.0,
+    "saleDate": "2026-08-03",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003770004",
+    "address": "535 CLINTON STREET",
+    "longitude": -74.0003497,
+    "latitude": 40.6772669,
+    "landUse": "02",
+    "salePrice": 650000.0,
+    "saleDate": "2026-07-13",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003510029",
+    "address": "374 COURT STREET",
+    "longitude": -73.9965748,
+    "latitude": 40.6815103,
+    "landUse": "04",
+    "salePrice": 7470000.0,
+    "saleDate": "2026-08-06",
+    "hasSale": true
+  },
+  {
+    "bbl": "3004670002",
+    "address": "445 COURT STREET",
+    "longitude": -73.9976818,
+    "latitude": 40.6780162,
+    "landUse": "04",
+    "salePrice": 3352000.0,
+    "saleDate": "2026-05-04",
+    "hasSale": true
+  },
+  {
+    "bbl": "3002950113",
+    "address": "96 AMITY STREET",
+    "longitude": -73.9974867,
+    "latitude": 40.6893576,
+    "landUse": "01",
+    "salePrice": 9750000.0,
+    "saleDate": "2026-06-09",
+    "hasSale": true
+  },
+  {
+    "bbl": "3002960006",
+    "address": "357 HENRY STREET",
+    "longitude": -73.9967042,
+    "latitude": 40.689116,
+    "landUse": "01",
+    "salePrice": 6750000.0,
+    "saleDate": "2026-08-26",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003010036",
+    "address": "171 WARREN STREET",
+    "longitude": -73.9963149,
+    "latitude": 40.687782,
+    "landUse": "01",
+    "salePrice": 616304.0,
+    "saleDate": "2026-04-28",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003050049",
+    "address": "12 WARREN PLACE",
+    "longitude": -73.9985829,
+    "latitude": 40.6879989,
+    "landUse": "01",
+    "salePrice": 2555000.0,
+    "saleDate": "2026-01-15",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003230033",
+    "address": "435 HENRY STREET",
+    "longitude": -73.997988,
+    "latitude": 40.686503,
+    "landUse": "01",
+    "salePrice": 11900000.0,
+    "saleDate": "2026-07-15",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003310004",
+    "address": "523 HICKS STREET",
+    "longitude": -74.0005985,
+    "latitude": 40.6850593,
+    "landUse": "01",
+    "salePrice": 3100000.0,
+    "saleDate": "2025-10-01",
+    "hasSale": true
+  },
+  {
+    "bbl": "3002910015",
+    "address": "126 PACIFIC STREET",
+    "longitude": -73.995745,
+    "latitude": 40.6896622,
+    "landUse": "01",
+    "salePrice": 10250000.0,
+    "saleDate": "2026-09-02",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003060015",
+    "address": "196 WARREN STREET",
+    "longitude": -73.9965745,
+    "latitude": 40.6874527,
+    "landUse": "01",
+    "salePrice": 5800000.0,
+    "saleDate": "2025-11-20",
+    "hasSale": true
+  },
+  {
+    "bbl": "3002910012",
+    "address": "120 PACIFIC STREET",
+    "longitude": -73.9960011,
+    "latitude": 40.6897308,
+    "landUse": "02",
+    "salePrice": 3020000.0,
+    "saleDate": "2025-10-01",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003210065",
+    "address": "54 CHEEVER PLACE",
+    "longitude": -73.9998738,
+    "latitude": 40.6855643,
+    "landUse": "02",
+    "salePrice": 4300000.0,
+    "saleDate": "2025-12-29",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003230045",
+    "address": "22 STRONG PLACE",
+    "longitude": -73.9978294,
+    "latitude": 40.6859321,
+    "landUse": "02",
+    "salePrice": 11800000.0,
+    "saleDate": "2026-03-31",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003330019",
+    "address": "274 DEGRAW STREET",
+    "longitude": -73.9964593,
+    "latitude": 40.6838515,
+    "landUse": "02",
+    "salePrice": 5925000.0,
+    "saleDate": "2026-08-13",
+    "hasSale": true
+  },
+  {
+    "bbl": "3002910030",
+    "address": "234 CLINTON STREET",
+    "longitude": -73.995179,
+    "latitude": 40.6891709,
+    "landUse": "02",
+    "salePrice": 10212500.0,
+    "saleDate": "2026-05-22",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003100031",
+    "address": "157 KANE STREET",
+    "longitude": -73.9984784,
+    "latitude": 40.6869971,
+    "landUse": "02",
+    "salePrice": 1650000.0,
+    "saleDate": "2026-02-04",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003210036",
+    "address": "124 KANE STREET",
+    "longitude": -73.9994447,
+    "latitude": 40.686901,
+    "landUse": "02",
+    "salePrice": 3750000.0,
+    "saleDate": "2026-03-13",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003230027",
+    "address": "447 HENRY STREET",
+    "longitude": -73.9981286,
+    "latitude": 40.6861901,
+    "landUse": "02",
+    "salePrice": 5100000.0,
+    "saleDate": "2026-03-20",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003230028",
+    "address": "445 HENRY STREET",
+    "longitude": -73.9980926,
+    "latitude": 40.6862478,
+    "landUse": "02",
+    "salePrice": 6400000.0,
+    "saleDate": "2026-01-16",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003230042",
+    "address": "16 STRONG PLACE",
+    "longitude": -73.9977645,
+    "latitude": 40.6860693,
+    "landUse": "02",
+    "salePrice": 4115000.0,
+    "saleDate": "2026-07-07",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003250015",
+    "address": "339 CLINTON STREET",
+    "longitude": -73.9965963,
+    "latitude": 40.6848918,
+    "landUse": "02",
+    "salePrice": 5695000.0,
+    "saleDate": "2025-11-06",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003260066",
+    "address": "275 DEGRAW STREET",
+    "longitude": -73.9955795,
+    "latitude": 40.6840711,
+    "landUse": "02",
+    "salePrice": 1575000.0,
+    "saleDate": "2025-10-31",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003330057",
+    "address": "261 SACKETT STREET",
+    "longitude": -73.9969244,
+    "latitude": 40.6836841,
+    "landUse": "02",
+    "salePrice": 3650000.0,
+    "saleDate": "2026-08-07",
+    "hasSale": true
+  },
+  {
+    "bbl": "3002910043",
+    "address": "135 AMITY STREET",
+    "longitude": -73.996048,
+    "latitude": 40.6894454,
+    "landUse": "02",
+    "salePrice": 1085000.0,
+    "saleDate": "2026-03-12",
+    "hasSale": true
+  },
+  {
+    "bbl": "3002960024",
+    "address": "238 CLINTON STREET",
+    "longitude": -73.9952872,
+    "latitude": 40.6887756,
+    "landUse": "02",
+    "salePrice": 2710000.0,
+    "saleDate": "2026-01-06",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003070008",
+    "address": "263 CLINTON STREET",
+    "longitude": -73.9955757,
+    "latitude": 40.6871562,
+    "landUse": "02",
+    "salePrice": 1620000.0,
+    "saleDate": "2026-03-24",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003070052",
+    "address": "225 BALTIC STREET",
+    "longitude": -73.9954568,
+    "latitude": 40.6867774,
+    "landUse": "02",
+    "salePrice": 820000.0,
+    "saleDate": "2025-10-06",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003100012",
+    "address": "142 BALTIC STREET",
+    "longitude": -73.9988425,
+    "latitude": 40.6874527,
+    "landUse": "02",
+    "salePrice": 707000.0,
+    "saleDate": "2026-02-09",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003110033",
+    "address": "314 CLINTON STREET",
+    "longitude": -73.9965421,
+    "latitude": 40.6862834,
+    "landUse": "02",
+    "salePrice": 3125000.0,
+    "saleDate": "2026-07-16",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003110038",
+    "address": "193 KANE STREET",
+    "longitude": -73.9969712,
+    "latitude": 40.6865332,
+    "landUse": "02",
+    "salePrice": 2175000.0,
+    "saleDate": "2026-08-17",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003120022",
+    "address": "242 BALTIC STREET",
+    "longitude": -73.9950169,
+    "latitude": 40.6861955,
+    "landUse": "02",
+    "salePrice": 850000.0,
+    "saleDate": "2026-02-17",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003320009",
+    "address": "495 HENRY STREET",
+    "longitude": -73.9989508,
+    "latitude": 40.6846037,
+    "landUse": "04",
+    "salePrice": 2150000.0,
+    "saleDate": "2026-06-30",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003190073",
+    "address": "129B DEGRAW STREET",
+    "longitude": -74.0018641,
+    "latitude": 40.6857647,
+    "landUse": "01",
+    "salePrice": 2450000.0,
+    "saleDate": "2026-05-14",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003190074",
+    "address": "129C DEGRAW STREET",
+    "longitude": -74.0018389,
+    "latitude": 40.6858196,
+    "landUse": "01",
+    "salePrice": 2563000.0,
+    "saleDate": "2026-07-23",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003520149",
+    "address": "57 SUMMIT STREET",
+    "longitude": -74.004579,
+    "latitude": 40.682781,
+    "landUse": "01",
+    "salePrice": 3800000.0,
+    "saleDate": "2026-02-25",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003580011",
+    "address": "88 SUMMIT STREET",
+    "longitude": -74.0036956,
+    "latitude": 40.68218,
+    "landUse": "01",
+    "salePrice": 1400000.0,
+    "saleDate": "2026-02-19",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003300012",
+    "address": "130 DEGRAW STREET",
+    "longitude": -74.0019939,
+    "latitude": 40.6854243,
+    "landUse": "04",
+    "salePrice": 2925000.0,
+    "saleDate": "2026-02-03",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003520014",
+    "address": "10 CARROLL STREET",
+    "longitude": -74.0054877,
+    "latitude": 40.6833821,
+    "landUse": "01",
+    "salePrice": 1810000.0,
+    "saleDate": "2026-03-02",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003090002",
+    "address": "113A COLUMBIA STREET",
+    "longitude": -74.0010637,
+    "latitude": 40.6878452,
+    "landUse": "01",
+    "salePrice": 4000000.0,
+    "saleDate": "2026-04-06",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003570025",
+    "address": "60 SUMMIT STREET",
+    "longitude": -74.0049648,
+    "latitude": 40.6824901,
+    "landUse": "02",
+    "salePrice": 3050000.0,
+    "saleDate": "2026-09-23",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003580045",
+    "address": "37 WOODHULL STREET",
+    "longitude": -74.0035081,
+    "latitude": 40.6817189,
+    "landUse": "02",
+    "salePrice": 1975000.0,
+    "saleDate": "2025-11-25",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003480014",
+    "address": "104 PRESIDENT STREET",
+    "longitude": -74.0028772,
+    "latitude": 40.6833602,
+    "landUse": "02",
+    "salePrice": 2500000.0,
+    "saleDate": "2026-06-29",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003530016",
+    "address": "76 CARROLL STREET",
+    "longitude": -74.0030394,
+    "latitude": 40.6826439,
+    "landUse": "02",
+    "salePrice": 2500000.0,
+    "saleDate": "2026-01-30",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003580010",
+    "address": "287 COLUMBIA STREET",
+    "longitude": -74.0038398,
+    "latitude": 40.6822211,
+    "landUse": "02",
+    "salePrice": 2000000.0,
+    "saleDate": "2025-12-23",
+    "hasSale": true
+  },
+  {
+    "bbl": "3003410002",
+    "address": "115 VAN BRUNT STREET",
+    "longitude": -74.0050911,
+    "latitude": 40.68462,
+    "landUse": "04",
+    "salePrice": 2750000.0,
+    "saleDate": "2026-05-13",
+    "hasSale": true
+  },
+  {
+    "bbl": "3005340019",
+    "address": "24 HUNTINGTON STREET",
+    "longitude": -74.005397,
+    "latitude": 40.677404,
+    "landUse": "01",
+    "salePrice": 2475000.0,
+    "saleDate": "2026-05-21",
+    "hasSale": true
+  },
+  {
+    "bbl": "3005340119",
+    "address": "26 HUNTINGTON STREET",
+    "longitude": -74.0053466,
+    "latitude": 40.6773875,
+    "landUse": "01",
+    "salePrice": 2494713.0,
+    "saleDate": "2026-02-27",
+    "hasSale": true
+  },
+  {
+    "bbl": "3005560117",
+    "address": "115 KING STREET",
+    "longitude": -74.0111943,
+    "latitude": 40.6777714,
+    "landUse": "01",
+    "salePrice": 2700000.0,
+    "saleDate": "2026-04-27",
+    "hasSale": true
+  },
+  {
+    "bbl": "3005560118",
+    "address": "113A KING STREET",
+    "longitude": -74.011151,
+    "latitude": 40.6777412,
+    "landUse": "01",
+    "salePrice": 2760000.0,
+    "saleDate": "2026-09-02",
+    "hasSale": true
+  },
+  {
+    "bbl": "3005310039",
+    "address": "96 PIONEER STREET",
+    "longitude": -74.0098316,
+    "latitude": 40.6783863,
+    "landUse": "01",
+    "salePrice": 1740000.0,
+    "saleDate": "2026-03-16",
+    "hasSale": true
+  },
+  {
+    "bbl": "3005310048",
+    "address": "114 PIONEER STREET",
+    "longitude": -74.0102354,
+    "latitude": 40.678658,
+    "landUse": "01",
+    "salePrice": 1998000.0,
+    "saleDate": "2025-10-06",
+    "hasSale": true
+  },
+  {
+    "bbl": "3005460026",
+    "address": "99 PIONEER STREET",
+    "longitude": -74.0102462,
+    "latitude": 40.6781036,
+    "landUse": "01",
+    "salePrice": 1200000.0,
+    "saleDate": "2025-12-10",
+    "hasSale": true
+  },
+  {
+    "bbl": "3005460045",
+    "address": "98 KING STREET",
+    "longitude": -74.0104769,
+    "latitude": 40.677895,
+    "landUse": "02",
+    "salePrice": 2800000.0,
+    "saleDate": "2026-09-28",
+    "hasSale": true
+  },
+  {
+    "bbl": "3005770009",
+    "address": "47 WOLCOTT STREET",
+    "longitude": -74.0114175,
+    "latitude": 40.6760092,
+    "landUse": "01",
+    "salePrice": 2995000.0,
+    "saleDate": "2026-04-28",
+    "hasSale": true
+  },
+  {
+    "bbl": "3005770013",
+    "address": "39 WOLCOTT STREET",
+    "longitude": -74.011212,
+    "latitude": 40.6758692,
+    "landUse": "01",
+    "salePrice": 3125000.0,
+    "saleDate": "2026-02-03",
+    "hasSale": true
+  },
+  {
+    "bbl": "3005960048",
+    "address": "159 COFFEY STREET",
+    "longitude": -74.0160541,
+    "latitude": 40.6772493,
+    "landUse": "01",
+    "salePrice": 2300000.0,
+    "saleDate": "2026-05-12",
+    "hasSale": true
+  },
+  {
+    "bbl": "3005760041",
+    "address": "68 DIKEMAN STREET",
+    "longitude": -74.0121169,
+    "latitude": 40.6760723,
+    "landUse": "02",
+    "salePrice": 1999999.0,
+    "saleDate": "2026-07-21",
+    "hasSale": true
+  },
+  {
+    "bbl": "3005850046",
+    "address": "178 COFFEY STREET",
+    "longitude": -74.0159929,
+    "latitude": 40.6777873,
+    "landUse": "02",
+    "salePrice": 3450000.0,
+    "saleDate": "2026-08-28",
+    "hasSale": true
+  },
+  {
+    "bbl": "3005860031",
+    "address": "130 COFFEY STREET",
+    "longitude": -74.0144208,
+    "latitude": 40.676717,
+    "landUse": "02",
+    "salePrice": 995000.0,
+    "saleDate": "2025-10-27",
+    "hasSale": true
+  },
+  {
+    "bbl": "3005870023",
+    "address": "75 DIKEMAN STREET",
+    "longitude": -74.0127045,
+    "latitude": 40.675924,
+    "landUse": "02",
+    "salePrice": 1480000.0,
+    "saleDate": "2026-01-12",
+    "hasSale": true
+  },
+  {
+    "bbl": "3005760012",
+    "address": "79 WOLCOTT STREET",
+    "longitude": -74.012492,
+    "latitude": 40.6766541,
+    "landUse": "02",
+    "salePrice": 84426.0,
+    "saleDate": "2026-07-07",
+    "hasSale": true
+  },
+  {
+    "bbl": "3005290020",
+    "address": "131 IMLAY STREET",
+    "longitude": -74.0103619,
+    "latitude": 40.680217,
+    "landUse": "04",
+    "salePrice": 2500000.0,
+    "saleDate": "2026-03-27",
+    "hasSale": true
+  },
+  {
+    "bbl": "3006420061",
+    "address": "137A 22 STREET",
+    "longitude": -73.9975562,
+    "latitude": 40.6632081,
+    "landUse": "01",
+    "salePrice": 1700000.0,
+    "saleDate": "2026-09-24",
+    "hasSale": true
+  },
+  {
+    "bbl": "3006480053",
+    "address": "213 24 STREET",
+    "longitude": -73.998223,
+    "latitude": 40.6617808,
+    "landUse": "01",
+    "salePrice": 1995000.0,
+    "saleDate": "2026-08-03",
+    "hasSale": true
+  },
+  {
+    "bbl": "3006570026",
+    "address": "170 26 STREET",
+    "longitude": -73.9997117,
+    "latitude": 40.6603097,
+    "landUse": "01",
+    "salePrice": 1340000.0,
+    "saleDate": "2026-08-24",
+    "hasSale": true
+  },
+  {
+    "bbl": "3006480052",
+    "address": "215 24 STREET",
+    "longitude": -73.998169,
+    "latitude": 40.6617479,
+    "landUse": "02",
+    "salePrice": 1950000.0,
+    "saleDate": "2026-05-04",
+    "hasSale": true
+  },
+  {
+    "bbl": "3006420027",
+    "address": "156 21 STREET",
+    "longitude": -73.9965541,
+    "latitude": 40.6629583,
+    "landUse": "02",
+    "salePrice": 1598000.0,
+    "saleDate": "2026-02-20",
+    "hasSale": true
+  },
+  {
+    "bbl": "3006100024",
+    "address": "442 VAN BRUNT STREET",
+    "longitude": -74.0157003,
+    "latitude": 40.6752264,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3006030041",
+    "address": "174 BEARD STREET",
+    "longitude": -74.0162268,
+    "latitude": 40.6759867,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3005850041",
+    "address": "168 COFFEY STREET",
+    "longitude": -74.0157261,
+    "latitude": 40.6776062,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3005850018",
+    "address": "171 DIKEMAN STREET",
+    "longitude": -74.0158055,
+    "latitude": 40.6780316,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3006030017",
+    "address": "147 VAN DYKE STREET",
+    "longitude": -74.0153832,
+    "latitude": 40.675877,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3005970009",
+    "address": "135 COFFEY STREET",
+    "longitude": -74.0152031,
+    "latitude": 40.6766675,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3005740037",
+    "address": "164 DIKEMAN STREET",
+    "longitude": -74.015171,
+    "latitude": 40.6781854,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3005870004",
+    "address": "375 VAN BRUNT STREET",
+    "longitude": -74.0137465,
+    "latitude": 40.6763383,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3005860021",
+    "address": "109 DIKEMAN STREET",
+    "longitude": -74.01388,
+    "latitude": 40.6767857,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3005750036",
+    "address": "132 DIKEMAN STREET",
+    "longitude": -74.0140712,
+    "latitude": 40.6774362,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3005990045",
+    "address": "70 VAN DYKE STREET",
+    "longitude": -74.0129314,
+    "latitude": 40.674708,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3005870145",
+    "address": "92 COFFEY STREET",
+    "longitude": -74.0132417,
+    "latitude": 40.6759102,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3005870014",
+    "address": "93 DIKEMAN STREET",
+    "longitude": -74.0132418,
+    "latitude": 40.676289,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3005760004",
+    "address": "355 VAN BRUNT STREET",
+    "longitude": -74.0130328,
+    "latitude": 40.6769203,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3005650021",
+    "address": "360 VAN BRUNT STREET",
+    "longitude": -74.0128022,
+    "latitude": 40.6777685,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3005550034",
+    "address": "114 SULLIVAN STREET",
+    "longitude": -74.0128853,
+    "latitude": 40.6785452,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3005990009",
+    "address": "57 COFFEY STREET",
+    "longitude": -74.0124267,
+    "latitude": 40.6747794,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3005887501",
+    "address": "191A RICHARDS STREET",
+    "longitude": -74.0121673,
+    "latitude": 40.6753696,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3005770007",
+    "address": "51 WOLCOTT STREET",
+    "longitude": -74.0115257,
+    "latitude": 40.6760833,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3005560145",
+    "address": "76A SULLIVAN STREET",
+    "longitude": -74.0116125,
+    "latitude": 40.677678,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3005550026",
+    "address": "352 VAN BRUNT STREET",
+    "longitude": -74.0123913,
+    "latitude": 40.6780704,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3005890007",
+    "address": "149 DWIGHT STREET",
+    "longitude": -74.0106025,
+    "latitude": 40.674442,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3005880019",
+    "address": "37 DIKEMAN STREET",
+    "longitude": -74.0113993,
+    "latitude": 40.6750321,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3005770047",
+    "address": "40 DIKEMAN STREET",
+    "longitude": -74.011093,
+    "latitude": 40.6754109,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3005770017",
+    "address": "31 WOLCOTT STREET",
+    "longitude": -74.0110029,
+    "latitude": 40.6757265,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3005560024",
+    "address": "142 RICHARDS STREET",
+    "longitude": -74.0107256,
+    "latitude": 40.6773817,
+    "landUse": "03",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3005560116",
+    "address": "115A KING STREET",
+    "longitude": -74.0112412,
+    "latitude": 40.6778016,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3005460017",
+    "address": "117 PIONEER STREET",
+    "longitude": -74.0106176,
+    "latitude": 40.6784027,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3005460010",
+    "address": "291 VAN BRUNT STREET",
+    "longitude": -74.0109637,
+    "latitude": 40.6787183,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3005290046",
+    "address": "320 VAN BRUNT STREET",
+    "longitude": -74.0111657,
+    "latitude": 40.6791547,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3005570001",
+    "address": "139 RICHARDS STREET",
+    "longitude": -74.0099503,
+    "latitude": 40.6763991,
+    "landUse": "03",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3005460025",
+    "address": "101 PIONEER STREET",
+    "longitude": -74.0102822,
+    "latitude": 40.6781393,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3005310038",
+    "address": "94 PIONEER STREET",
+    "longitude": -74.0097847,
+    "latitude": 40.6783561,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3005310051",
+    "address": "120 PIONEER STREET",
+    "longitude": -74.0103689,
+    "latitude": 40.6787513,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3005300047",
+    "address": "100 VISITATION PLACE",
+    "longitude": -74.0098029,
+    "latitude": 40.6793223,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3005790003",
+    "address": " CREAMER STREET",
+    "longitude": -74.008526,
+    "latitude": 40.6744367,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3005220007",
+    "address": "239 VAN BRUNT STREET",
+    "longitude": -74.0091901,
+    "latitude": 40.680187,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3005170022",
+    "address": "228 VAN BRUNT STREET",
+    "longitude": -74.0088081,
+    "latitude": 40.6810873,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3005340046",
+    "address": "9 WEST 9 STREET",
+    "longitude": -74.0059522,
+    "latitude": 40.6772557,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3005240010",
+    "address": "9 DWIGHT STREET",
+    "longitude": -74.0062515,
+    "latitude": 40.6781615,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003520013",
+    "address": "8 CARROLL STREET",
+    "longitude": -74.0055489,
+    "latitude": 40.6834123,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3005340120",
+    "address": "26A HUNTINGTON STREET",
+    "longitude": -74.0052853,
+    "latitude": 40.6773711,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3005130048",
+    "address": "5 LUQUER STREET",
+    "longitude": -74.0052169,
+    "latitude": 40.6791305,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003520148",
+    "address": "59 SUMMIT STREET",
+    "longitude": -74.0045321,
+    "latitude": 40.6827673,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003520019",
+    "address": "20 CARROLL STREET",
+    "longitude": -74.0051271,
+    "latitude": 40.6832284,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003470002",
+    "address": "137 VAN BRUNT STREET",
+    "longitude": -74.005448,
+    "latitude": 40.6838981,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3005130036",
+    "address": "31 LUQUER STREET",
+    "longitude": -74.0042471,
+    "latitude": 40.6789741,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003630003",
+    "address": "321 COLUMBIA STREET",
+    "longitude": -74.0042616,
+    "latitude": 40.6811616,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003587502",
+    "address": "35 WOODHULL STREET",
+    "longitude": -74.0035766,
+    "latitude": 40.6817381,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003577501",
+    "address": "296 COLUMBIA STREET",
+    "longitude": -74.0044347,
+    "latitude": 40.6820674,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003470048",
+    "address": "39 CARROLL STREET",
+    "longitude": -74.0043844,
+    "latitude": 40.683481,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003410019",
+    "address": "84 UNION STREET",
+    "longitude": -74.004096,
+    "latitude": 40.6844581,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3005390021",
+    "address": "84 WEST 9 STREET",
+    "longitude": -74.0034646,
+    "latitude": 40.6761607,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3005260023",
+    "address": "74 NELSON STREET",
+    "longitude": -74.003014,
+    "latitude": 40.6775056,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003580040",
+    "address": "47 WOODHULL STREET",
+    "longitude": -74.0031692,
+    "latitude": 40.6816228,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003587504",
+    "address": "100 SUMMIT STREET",
+    "longitude": -74.003317,
+    "latitude": 40.6819604,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003530044",
+    "address": "89 SUMMIT STREET",
+    "longitude": -74.003263,
+    "latitude": 40.6824105,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003530015",
+    "address": "74 CARROLL STREET",
+    "longitude": -74.0031116,
+    "latitude": 40.6826631,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003487501",
+    "address": "69 CARROLL STREET",
+    "longitude": -74.0030287,
+    "latitude": 40.6830858,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003480010",
+    "address": "247 COLUMBIA STREET",
+    "longitude": -74.0031441,
+    "latitude": 40.6835496,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003360001",
+    "address": "225 COLUMBIA STREET",
+    "longitude": -74.0027294,
+    "latitude": 40.6844225,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003350030",
+    "address": "208 COLUMBIA STREET",
+    "longitude": -74.0030071,
+    "latitude": 40.6849879,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003290028",
+    "address": "108 DEGRAW STREET",
+    "longitude": -74.0029494,
+    "latitude": 40.6856604,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003760015",
+    "address": "90 LUQUER STREET",
+    "longitude": -74.0017702,
+    "latitude": 40.6779146,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003720031",
+    "address": "662 HENRY STREET",
+    "longitude": -74.0023182,
+    "latitude": 40.6786008,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003647502",
+    "address": "608 HENRY STREET",
+    "longitude": -74.0015323,
+    "latitude": 40.6802944,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003597501",
+    "address": "85 WOODHULL STREET",
+    "longitude": -74.0016188,
+    "latitude": 40.6811892,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003590012",
+    "address": "142 SUMMIT STREET",
+    "longitude": -74.001727,
+    "latitude": 40.6815158,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003490042",
+    "address": "107 CARROLL STREET",
+    "longitude": -74.0016369,
+    "latitude": 40.6827152,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003420037",
+    "address": "119 PRESIDENT STREET",
+    "longitude": -74.002066,
+    "latitude": 40.6835963,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003420019",
+    "address": "134 UNION STREET",
+    "longitude": -74.0021706,
+    "latitude": 40.6839229,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003360042",
+    "address": "141 UNION STREET",
+    "longitude": -74.0021598,
+    "latitude": 40.6843841,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003300041",
+    "address": "151 SACKETT STREET",
+    "longitude": -74.0015396,
+    "latitude": 40.6849742,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003300018",
+    "address": "142 DEGRAW STREET",
+    "longitude": -74.0016009,
+    "latitude": 40.6852871,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003190072",
+    "address": "129A TIFFANY PLACE",
+    "longitude": -74.0018894,
+    "latitude": 40.6857125,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003190015",
+    "address": "159 COLUMBIA STREET",
+    "longitude": -74.0016911,
+    "latitude": 40.6864783,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3005520017",
+    "address": "338 HAMILTON AVENUE",
+    "longitude": -74.0008111,
+    "latitude": 40.6746017,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003790009",
+    "address": "545 CLINTON STREET",
+    "longitude": -74.0005228,
+    "latitude": 40.6768305,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003760046",
+    "address": "107 NELSON STREET",
+    "longitude": -74.0014133,
+    "latitude": 40.677448,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003767502",
+    "address": "538 CLINTON STREET",
+    "longitude": -74.0007138,
+    "latitude": 40.6776676,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003730026",
+    "address": "38 4 PLACE",
+    "longitude": -74.000703,
+    "latitude": 40.6782852,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003700041",
+    "address": "35 4 PLACE",
+    "longitude": -74.0005805,
+    "latitude": 40.6788781,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003700052",
+    "address": "9 4 PLACE",
+    "longitude": -74.0012943,
+    "latitude": 40.6790757,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003700012",
+    "address": "16 3 PLACE",
+    "longitude": -74.0010708,
+    "latitude": 40.6793145,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003650053",
+    "address": "15 3 PLACE",
+    "longitude": -74.000703,
+    "latitude": 40.6798387,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003650012",
+    "address": "18 2 PLACE",
+    "longitude": -74.0006345,
+    "latitude": 40.6801187,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003640024",
+    "address": "594 HENRY STREET",
+    "longitude": -74.0013448,
+    "latitude": 40.6806896,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003590030",
+    "address": "590 HENRY STREET",
+    "longitude": -74.001197,
+    "latitude": 40.6809586,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003590034",
+    "address": "89 WOODHULL STREET",
+    "longitude": -74.001471,
+    "latitude": 40.681148,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003540033",
+    "address": "568 HENRY STREET",
+    "longitude": -74.0008365,
+    "latitude": 40.6817326,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003540024",
+    "address": "132 CARROLL STREET",
+    "longitude": -74.0008653,
+    "latitude": 40.6820647,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003490034",
+    "address": "121 CARROLL STREET",
+    "longitude": -74.0011502,
+    "latitude": 40.6825808,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003490009",
+    "address": "150 PRESIDENT STREET",
+    "longitude": -74.0011646,
+    "latitude": 40.6828827,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003430001",
+    "address": "577 HICKS STREET",
+    "longitude": -74.0013341,
+    "latitude": 40.6833026,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003430008",
+    "address": "158 UNION STREET",
+    "longitude": -74.0011682,
+    "latitude": 40.683654,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003370003",
+    "address": "176 SACKETT STREET",
+    "longitude": -74.0008077,
+    "latitude": 40.6843045,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003300024",
+    "address": " DEGRAW STREET",
+    "longitude": -74.0012115,
+    "latitude": 40.6851773,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003190024",
+    "address": "145 COLUMBIA STREET",
+    "longitude": -74.0014964,
+    "latitude": 40.6868818,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003190039",
+    "address": "90 KANE STREET",
+    "longitude": -74.0010637,
+    "latitude": 40.6874445,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003090015",
+    "address": "100 BALTIC STREET",
+    "longitude": -74.0005373,
+    "latitude": 40.6880072,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003040005",
+    "address": "94 WARREN STREET",
+    "longitude": -74.0005481,
+    "latitude": 40.6887675,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3006570025",
+    "address": "168A 26 STREET",
+    "longitude": -73.9997621,
+    "latitude": 40.6603398,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3004790005",
+    "address": "545 COURT STREET",
+    "longitude": -73.9995386,
+    "latitude": 40.6741323,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003820029",
+    "address": "546 COURT STREET",
+    "longitude": -73.9995854,
+    "latitude": 40.6751726,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003810037",
+    "address": "540 COURT STREET",
+    "longitude": -73.9995133,
+    "latitude": 40.6754636,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003810026",
+    "address": "166 HUNTINGTON STREET",
+    "longitude": -73.9997729,
+    "latitude": 40.6758286,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003790042",
+    "address": "163 HUNTINGTON STREET",
+    "longitude": -73.9995241,
+    "latitude": 40.6761937,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003790054",
+    "address": "139 HUNTINGTON STREET",
+    "longitude": -74.0004182,
+    "latitude": 40.6764462,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003790012",
+    "address": "134 NELSON STREET",
+    "longitude": -74.0003064,
+    "latitude": 40.6767124,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003770001",
+    "address": "541 CLINTON STREET",
+    "longitude": -74.0004434,
+    "latitude": 40.677072,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003777502",
+    "address": "140 LUQUER STREET",
+    "longitude": -73.9998161,
+    "latitude": 40.6773053,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003740053",
+    "address": "139 LUQUER STREET",
+    "longitude": -73.9997981,
+    "latitude": 40.6777362,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003740008",
+    "address": "513 CLINTON STREET",
+    "longitude": -73.9999603,
+    "latitude": 40.6780766,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003710005",
+    "address": "499 CLINTON STREET",
+    "longitude": -73.9996575,
+    "latitude": 40.6786942,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003710009",
+    "address": "491 CLINTON STREET",
+    "longitude": -73.9995854,
+    "latitude": 40.6788726,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003700027",
+    "address": "500 CLINTON STREET",
+    "longitude": -73.9999603,
+    "latitude": 40.6791223,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003650046",
+    "address": "29 3 PLACE",
+    "longitude": -74.000238,
+    "latitude": 40.6797097,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003650025",
+    "address": "42 2 PLACE",
+    "longitude": -73.9999279,
+    "latitude": 40.6799238,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003600039",
+    "address": "31 2 PLACE",
+    "longitude": -73.9997801,
+    "latitude": 40.6805112,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003600023",
+    "address": "36 1 PLACE",
+    "longitude": -73.9996142,
+    "latitude": 40.6807637,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003600010",
+    "address": "12 1 PLACE",
+    "longitude": -74.0004723,
+    "latitude": 40.6810025,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003550014",
+    "address": "164 CARROLL STREET",
+    "longitude": -73.9995457,
+    "latitude": 40.6816722,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003550004",
+    "address": "144 CARROLL STREET",
+    "longitude": -74.0002524,
+    "latitude": 40.681922,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003507503",
+    "address": "192 PRESIDENT STREET",
+    "longitude": -73.9995205,
+    "latitude": 40.6824243,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003440001",
+    "address": "551 HENRY STREET",
+    "longitude": -73.9997981,
+    "latitude": 40.6828443,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003440007",
+    "address": "539 HENRY STREET",
+    "longitude": -73.9996142,
+    "latitude": 40.6831517,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003430018",
+    "address": "176 UNION STREET",
+    "longitude": -74.0004651,
+    "latitude": 40.6834509,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003370013",
+    "address": "196 SACKETT STREET",
+    "longitude": -74.0001262,
+    "latitude": 40.6841151,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003310036",
+    "address": "189 SACKETT STREET",
+    "longitude": -74.0000649,
+    "latitude": 40.6845597,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003310011",
+    "address": "180 DEGRAW STREET",
+    "longitude": -74.0001262,
+    "latitude": 40.6848726,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003210001",
+    "address": "521 HICKS STREET",
+    "longitude": -74.000375,
+    "latitude": 40.6852871,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003210006",
+    "address": "511 HICKS STREET",
+    "longitude": -74.0002344,
+    "latitude": 40.6855424,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003210053",
+    "address": "30 CHEEVER PLACE",
+    "longitude": -73.9995781,
+    "latitude": 40.6861627,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003210029",
+    "address": "471 HICKS STREET",
+    "longitude": -73.9996971,
+    "latitude": 40.6866705,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003090022",
+    "address": "428 HICKS STREET",
+    "longitude": -73.9999567,
+    "latitude": 40.6878096,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003040007",
+    "address": "98 WARREN STREET",
+    "longitude": -74.0004039,
+    "latitude": 40.6887208,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3002990004",
+    "address": "73 COLUMBIA STREET",
+    "longitude": -74.000375,
+    "latitude": 40.6892149,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3006570031",
+    "address": "176A 26 STREET",
+    "longitude": -73.9994558,
+    "latitude": 40.6601559,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3006480064",
+    "address": "185 24 STREET",
+    "longitude": -73.9988682,
+    "latitude": 40.6621706,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3004790013",
+    "address": "32 GARNET STREET",
+    "longitude": -73.9991636,
+    "latitude": 40.6741955,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3004787501",
+    "address": "529 COURT STREET",
+    "longitude": -73.9992862,
+    "latitude": 40.6746456,
+    "landUse": "03",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3004780009",
+    "address": "519 COURT STREET",
+    "longitude": -73.9991672,
+    "latitude": 40.6749805,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003810030",
+    "address": "526 COURT STREET",
+    "longitude": -73.9993403,
+    "latitude": 40.6758231,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003790041",
+    "address": "165 HUNTINGTON STREET",
+    "longitude": -73.999452,
+    "latitude": 40.6761745,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003790025",
+    "address": "158 NELSON STREET",
+    "longitude": -73.9994088,
+    "latitude": 40.6764599,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003770042",
+    "address": "161 NELSON STREET",
+    "longitude": -73.9993114,
+    "latitude": 40.6768661,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003770020",
+    "address": "154 LUQUER STREET",
+    "longitude": -73.9993258,
+    "latitude": 40.6771681,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003740042",
+    "address": "163 LUQUER STREET",
+    "longitude": -73.9990662,
+    "latitude": 40.6775331,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003740024",
+    "address": "84 4 PLACE",
+    "longitude": -73.9988499,
+    "latitude": 40.6777719,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003710050",
+    "address": "81 4 PLACE",
+    "longitude": -73.9986949,
+    "latitude": 40.6783538,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003710061",
+    "address": "63 4 PLACE",
+    "longitude": -73.999434,
+    "latitude": 40.6785597,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003710015",
+    "address": "66 3 PLACE",
+    "longitude": -73.9993006,
+    "latitude": 40.6788204,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003660049",
+    "address": "61 3 PLACE",
+    "longitude": -73.9989905,
+    "latitude": 40.6793584,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003660011",
+    "address": "72 2 PLACE",
+    "longitude": -73.9988211,
+    "latitude": 40.6796137,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003610001",
+    "address": "457 CLINTON STREET",
+    "longitude": -73.9988607,
+    "latitude": 40.6803273,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003600029",
+    "address": "48 1 PLACE",
+    "longitude": -73.9991599,
+    "latitude": 40.6806375,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003550022",
+    "address": "440 CLINTON STREET",
+    "longitude": -73.9988499,
+    "latitude": 40.6815185,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003500038",
+    "address": "173 CARROLL STREET",
+    "longitude": -73.9989796,
+    "latitude": 40.6819742,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003500026",
+    "address": "424 CLINTON STREET",
+    "longitude": -73.998565,
+    "latitude": 40.6821416,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003500013",
+    "address": "194 PRESIDENT STREET",
+    "longitude": -73.9994375,
+    "latitude": 40.6823996,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003440054",
+    "address": "189 PRESIDENT STREET",
+    "longitude": -73.9993041,
+    "latitude": 40.682825,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003440013",
+    "address": "202 UNION STREET",
+    "longitude": -73.999351,
+    "latitude": 40.6831325,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003380001",
+    "address": "531 HENRY STREET",
+    "longitude": -73.9994808,
+    "latitude": 40.6835195,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003380012",
+    "address": "224 SACKETT STREET",
+    "longitude": -73.9990373,
+    "latitude": 40.6838104,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003320052",
+    "address": "213 SACKETT STREET",
+    "longitude": -73.9989219,
+    "latitude": 40.6842029,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003320008",
+    "address": "497 HENRY STREET",
+    "longitude": -73.998976,
+    "latitude": 40.6845515,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003220059",
+    "address": "478 HENRY STREET",
+    "longitude": -73.9992104,
+    "latitude": 40.6851499,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003230010",
+    "address": "475 HENRY STREET",
+    "longitude": -73.9985037,
+    "latitude": 40.6853694,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003220010",
+    "address": "41 CHEEVER PLACE",
+    "longitude": -73.9992644,
+    "latitude": 40.685718,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003220016",
+    "address": "29 CHEEVER PLACE",
+    "longitude": -73.9991202,
+    "latitude": 40.6860254,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003220038",
+    "address": "436 HENRY STREET",
+    "longitude": -73.9986443,
+    "latitude": 40.6863082,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003210045",
+    "address": "16 CHEEVER PLACE",
+    "longitude": -73.9994014,
+    "latitude": 40.6865305,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003210040",
+    "address": "132 KANE STREET",
+    "longitude": -73.9991274,
+    "latitude": 40.6868379,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003100040",
+    "address": "139 KANE STREET",
+    "longitude": -73.9991382,
+    "latitude": 40.6872386,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003050038",
+    "address": "145 BALTIC STREET",
+    "longitude": -73.9985829,
+    "latitude": 40.6876998,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003050050",
+    "address": "10 WARREN PLACE",
+    "longitude": -73.9985649,
+    "latitude": 40.6880264,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3002950001",
+    "address": "393 HICKS STREET",
+    "longitude": -73.9985072,
+    "latitude": 40.6892286,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3006480049",
+    "address": "223 24 STREET",
+    "longitude": -73.9979852,
+    "latitude": 40.6616381,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3006480057",
+    "address": "203 24 STREET",
+    "longitude": -73.9984717,
+    "latitude": 40.6619318,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3006480016",
+    "address": "132 23 STREET",
+    "longitude": -73.9984609,
+    "latitude": 40.6622886,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3006450063",
+    "address": "137 23 STREET",
+    "longitude": -73.9981762,
+    "latitude": 40.6626372,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3004780028",
+    "address": "486 SMITH STREET",
+    "longitude": -73.9981362,
+    "latitude": 40.6745221,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3004760029",
+    "address": "470 SMITH STREET",
+    "longitude": -73.997873,
+    "latitude": 40.6750738,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3004740046",
+    "address": "187 HUNTINGTON STREET",
+    "longitude": -73.9984498,
+    "latitude": 40.6758917,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3004740013",
+    "address": "182 NELSON STREET",
+    "longitude": -73.9983272,
+    "latitude": 40.6761552,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3004720019",
+    "address": "4 DENNETT PLACE",
+    "longitude": -73.9976062,
+    "latitude": 40.6767261,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3004700012",
+    "address": "116 4 PLACE",
+    "longitude": -73.9976133,
+    "latitude": 40.6774233,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003710044",
+    "address": "470 COURT STREET",
+    "longitude": -73.9982334,
+    "latitude": 40.6780958,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003710038",
+    "address": "458 COURT STREET",
+    "longitude": -73.9981577,
+    "latitude": 40.6783318,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003710029",
+    "address": "90 3 PLACE",
+    "longitude": -73.9984281,
+    "latitude": 40.6785789,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003660038",
+    "address": "83 3 PLACE",
+    "longitude": -73.9982082,
+    "latitude": 40.6791388,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003660021",
+    "address": "90 2 PLACE",
+    "longitude": -73.9980928,
+    "latitude": 40.6794105,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003610038",
+    "address": "85 2 PLACE",
+    "longitude": -73.997826,
+    "latitude": 40.6799677,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003610020",
+    "address": "86 1 PLACE",
+    "longitude": -73.9977106,
+    "latitude": 40.6802312,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003560043",
+    "address": "87 1 PLACE",
+    "longitude": -73.9976024,
+    "latitude": 40.6808296,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003560017",
+    "address": "212 CARROLL STREET",
+    "longitude": -73.9975591,
+    "latitude": 40.681115,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003560003",
+    "address": "433 CLINTON STREET",
+    "longitude": -73.9983739,
+    "latitude": 40.6812797,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003510012",
+    "address": "238 PRESIDENT STREET",
+    "longitude": -73.9976853,
+    "latitude": 40.6819138,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003440038",
+    "address": "414A CLINTON STREET",
+    "longitude": -73.9983487,
+    "latitude": 40.6825396,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003450008",
+    "address": "393 CLINTON STREET",
+    "longitude": -73.9976817,
+    "latitude": 40.6827784,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003380026",
+    "address": "246 SACKETT STREET",
+    "longitude": -73.998172,
+    "latitude": 40.6835689,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003320038",
+    "address": "241 SACKETT STREET",
+    "longitude": -73.9978799,
+    "latitude": 40.6839476,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003320028",
+    "address": "376 CLINTON STREET",
+    "longitude": -73.9976023,
+    "latitude": 40.6841315,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003240063",
+    "address": "223 DEGRAW STREET",
+    "longitude": -73.9977681,
+    "latitude": 40.6846476,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003240006",
+    "address": "45 STRONG PLACE",
+    "longitude": -73.9975986,
+    "latitude": 40.6850455,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003230011",
+    "address": "473 HENRY STREET",
+    "longitude": -73.9984532,
+    "latitude": 40.6854216,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003230048",
+    "address": "28 STRONG PLACE",
+    "longitude": -73.9979231,
+    "latitude": 40.6857427,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003230043",
+    "address": "18 STRONG PLACE",
+    "longitude": -73.9977861,
+    "latitude": 40.6860254,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003220032",
+    "address": "424 HENRY STREET",
+    "longitude": -73.9984892,
+    "latitude": 40.6866705,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003100017",
+    "address": "152 BALTIC STREET",
+    "longitude": -73.9984784,
+    "latitude": 40.6873402,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003050034",
+    "address": "151 BALTIC STREET",
+    "longitude": -73.9982512,
+    "latitude": 40.687697,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003050025",
+    "address": "388 HENRY STREET",
+    "longitude": -73.9979014,
+    "latitude": 40.6878919,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003050016",
+    "address": "148 WARREN STREET",
+    "longitude": -73.9984243,
+    "latitude": 40.6881746,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3002957504",
+    "address": "119 CONGRESS STREET",
+    "longitude": -73.9979158,
+    "latitude": 40.6891764,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3002950014",
+    "address": "88 AMITY STREET",
+    "longitude": -73.9978833,
+    "latitude": 40.6894646,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3006480037",
+    "address": "732 4 AVENUE",
+    "longitude": -73.9973508,
+    "latitude": 40.6614954,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3006450038",
+    "address": "718 4 AVENUE",
+    "longitude": -73.9967777,
+    "latitude": 40.6620388,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3006450031",
+    "address": "166 22 STREET",
+    "longitude": -73.9969146,
+    "latitude": 40.6622694,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3006420054",
+    "address": "149 22 STREET",
+    "longitude": -73.9971705,
+    "latitude": 40.6629748,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3006390021",
+    "address": "142 20 STREET",
+    "longitude": -73.9965721,
+    "latitude": 40.6638806,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3004720042",
+    "address": "9 DENNETT PLACE",
+    "longitude": -73.9974079,
+    "latitude": 40.6765367,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3004700015",
+    "address": "124 4 PLACE",
+    "longitude": -73.9973574,
+    "latitude": 40.6773519,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3004670024",
+    "address": "134 3 PLACE",
+    "longitude": -73.9966038,
+    "latitude": 40.6780683,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3004630035",
+    "address": "119 3 PLACE",
+    "longitude": -73.9966002,
+    "latitude": 40.6786941,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3004630003",
+    "address": "417 COURT STREET",
+    "longitude": -73.9973465,
+    "latitude": 40.6789686,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3004590041",
+    "address": "113 2 PLACE",
+    "longitude": -73.9966182,
+    "latitude": 40.6795807,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3004590006",
+    "address": "104 1 PLACE",
+    "longitude": -73.9966578,
+    "latitude": 40.6799924,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003560035",
+    "address": "404 COURT STREET",
+    "longitude": -73.9969931,
+    "latitude": 40.6806045,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003560026",
+    "address": "230 CARROLL STREET",
+    "longitude": -73.9969931,
+    "latitude": 40.6809558,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003510036",
+    "address": "225 CARROLL STREET",
+    "longitude": -73.9969318,
+    "latitude": 40.6814032,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003510027",
+    "address": "370 COURT STREET",
+    "longitude": -73.9965135,
+    "latitude": 40.6816447,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003450038",
+    "address": "257 PRESIDENT STREET",
+    "longitude": -73.9967118,
+    "latitude": 40.6821004,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003450023",
+    "address": "272 UNION STREET",
+    "longitude": -73.9965567,
+    "latitude": 40.6823584,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003450011",
+    "address": "248 UNION STREET",
+    "longitude": -73.9974761,
+    "latitude": 40.6826137,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003390003",
+    "address": "389 CLINTON STREET",
+    "longitude": -73.9974833,
+    "latitude": 40.683105,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003330052",
+    "address": "271 SACKETT STREET",
+    "longitude": -73.9965531,
+    "latitude": 40.6835743,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003330006",
+    "address": "371 CLINTON STREET",
+    "longitude": -73.9971191,
+    "latitude": 40.6838872,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003250003",
+    "address": "357 CLINTON STREET",
+    "longitude": -73.9968667,
+    "latitude": 40.6844225,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003240056",
+    "address": "364 CLINTON STREET",
+    "longitude": -73.9973571,
+    "latitude": 40.6846805,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003250018",
+    "address": "333 CLINTON STREET",
+    "longitude": -73.9965169,
+    "latitude": 40.6850565,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003240042",
+    "address": "336 CLINTON STREET",
+    "longitude": -73.9969496,
+    "latitude": 40.6854847,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003240021",
+    "address": "15 STRONG PLACE",
+    "longitude": -73.9971984,
+    "latitude": 40.6858415,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003060033",
+    "address": "197 BALTIC STREET",
+    "longitude": -73.9965385,
+    "latitude": 40.6871343,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003060044",
+    "address": "173 BALTIC STREET",
+    "longitude": -73.9973245,
+    "latitude": 40.6873951,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003060007",
+    "address": "180 WARREN STREET",
+    "longitude": -73.9972055,
+    "latitude": 40.6876613,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003010044",
+    "address": "155 WARREN STREET",
+    "longitude": -73.9969026,
+    "latitude": 40.6880758,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003010004",
+    "address": "379 HENRY STREET",
+    "longitude": -73.9972812,
+    "latitude": 40.688331,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3002960045",
+    "address": "151 CONGRESS STREET",
+    "longitude": -73.9965636,
+    "latitude": 40.6888059,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3002950025",
+    "address": "356 HENRY STREET",
+    "longitude": -73.9973028,
+    "latitude": 40.6891545,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3006490023",
+    "address": "208A 23 STREET",
+    "longitude": -73.9957181,
+    "latitude": 40.6606335,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3006490015",
+    "address": "194 23 STREET",
+    "longitude": -73.996219,
+    "latitude": 40.6609354,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3006460070",
+    "address": "189 23 STREET",
+    "longitude": -73.9961722,
+    "latitude": 40.6614596,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3006460015",
+    "address": "188 22 STREET",
+    "longitude": -73.9959451,
+    "latitude": 40.661682,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3006430005",
+    "address": "683 4 AVENUE",
+    "longitude": -73.9956783,
+    "latitude": 40.6623023,
+    "landUse": "03",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3006390138",
+    "address": "678 4 AVENUE",
+    "longitude": -73.995599,
+    "latitude": 40.6631861,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3006367502",
+    "address": "126 19TH STREET",
+    "longitude": -73.9962909,
+    "latitude": 40.6646244,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3004680016",
+    "address": "20 4 STREET",
+    "longitude": -73.9956196,
+    "latitude": 40.6776538,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3004640065",
+    "address": "9 4 STREET",
+    "longitude": -73.9956376,
+    "latitude": 40.6781561,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3004630030",
+    "address": "125 3 PLACE",
+    "longitude": -73.9963767,
+    "latitude": 40.6786337,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3004590035",
+    "address": "119A 2 PLACE",
+    "longitude": -73.9962577,
+    "latitude": 40.6795285,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3004590011",
+    "address": "114 1 PLACE",
+    "longitude": -73.9963189,
+    "latitude": 40.6798469,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3004497503",
+    "address": "238 CARROLL STREET",
+    "longitude": -73.9962792,
+    "latitude": 40.6807582,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3004357501",
+    "address": "351 COURT STREET",
+    "longitude": -73.9957744,
+    "latitude": 40.682029,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003390123",
+    "address": "296 SACKETT STREET",
+    "longitude": -73.9962611,
+    "latitude": 40.6830363,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003330044",
+    "address": "287 SACKETT STREET",
+    "longitude": -73.9959474,
+    "latitude": 40.6834124,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003330032",
+    "address": "308 COURT STREET",
+    "longitude": -73.9956084,
+    "latitude": 40.6836539,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003330020",
+    "address": "276 DEGRAW STREET",
+    "longitude": -73.9963944,
+    "latitude": 40.6838323,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003250070",
+    "address": "58 TOMPKINS PLACE",
+    "longitude": -73.9963619,
+    "latitude": 40.6843127,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003250065",
+    "address": "48 TOMPKINS PLACE",
+    "longitude": -73.9963006,
+    "latitude": 40.6845926,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003250058",
+    "address": "34 TOMPKINS PLACE",
+    "longitude": -73.9961203,
+    "latitude": 40.6849604,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003250051",
+    "address": "20 TOMPKINS PLACE",
+    "longitude": -73.9959364,
+    "latitude": 40.6853364,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003250045",
+    "address": "224 KANE STREET",
+    "longitude": -73.9956011,
+    "latitude": 40.6856576,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003250036",
+    "address": "206 KANE STREET",
+    "longitude": -73.9960734,
+    "latitude": 40.6857701,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003120055",
+    "address": "219 KANE STREET",
+    "longitude": -73.9958859,
+    "latitude": 40.6861763,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003120008",
+    "address": "285 CLINTON STREET",
+    "longitude": -73.9958751,
+    "latitude": 40.6864838,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003070054",
+    "address": "221 BALTIC STREET",
+    "longitude": -73.9956298,
+    "latitude": 40.6867747,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003060025",
+    "address": "288 CLINTON STREET",
+    "longitude": -73.9961346,
+    "latitude": 40.6871837,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003010030",
+    "address": "276 CLINTON STREET",
+    "longitude": -73.9958894,
+    "latitude": 40.6876146,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003010022",
+    "address": "38 VERANDAH PLACE",
+    "longitude": -73.9959435,
+    "latitude": 40.6878891,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3002960033",
+    "address": "175 CONGRESS STREET",
+    "longitude": -73.9956946,
+    "latitude": 40.6885643,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3002960021",
+    "address": "142 AMITY STREET",
+    "longitude": -73.995572,
+    "latitude": 40.688825,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3002960009",
+    "address": "120 AMITY STREET",
+    "longitude": -73.9964915,
+    "latitude": 40.6890803,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3002910016",
+    "address": "128 PACIFIC STREET",
+    "longitude": -73.9956585,
+    "latitude": 40.6896375,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3006490027",
+    "address": "216 23 STREET",
+    "longitude": -73.9954694,
+    "latitude": 40.6604852,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3006460027",
+    "address": "206 22 STREET",
+    "longitude": -73.9953071,
+    "latitude": 40.6612977,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3006437509",
+    "address": "193 22ND STREET",
+    "longitude": -73.9954621,
+    "latitude": 40.6619427,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3006330015",
+    "address": "128 18 STREET",
+    "longitude": -73.9954979,
+    "latitude": 40.6651321,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3004687502",
+    "address": "26 4 STREET",
+    "longitude": -73.9954177,
+    "latitude": 40.6775577,
+    "landUse": "03",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3004640014",
+    "address": "14 3 STREET",
+    "longitude": -73.9954465,
+    "latitude": 40.6783894,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3004600003",
+    "address": "8 2 STREET",
+    "longitude": -73.995259,
+    "latitude": 40.6791497,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3004350018",
+    "address": "310 UNION STREET",
+    "longitude": -73.9950641,
+    "latitude": 40.6818423,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3004280004",
+    "address": "337 COURT STREET",
+    "longitude": -73.9954859,
+    "latitude": 40.6825971,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3004210003",
+    "address": "319 COURT STREET",
+    "longitude": -73.995183,
+    "latitude": 40.683179,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003260060",
+    "address": "296 COURT STREET",
+    "longitude": -73.9953488,
+    "latitude": 40.6841232,
+    "landUse": "04",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003260020",
+    "address": "23 TOMPKINS PLACE",
+    "longitude": -73.9954425,
+    "latitude": 40.6849467,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003127501",
+    "address": "233 KANE STREET",
+    "longitude": -73.9953919,
+    "latitude": 40.6860144,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003070051",
+    "address": "227 BALTIC STREET",
+    "longitude": -73.9953738,
+    "latitude": 40.68675,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3003020004",
+    "address": "253 CLINTON STREET",
+    "longitude": -73.9953449,
+    "latitude": 40.6875789,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3002910029",
+    "address": "232 CLINTON STREET",
+    "longitude": -73.9951501,
+    "latitude": 40.6892395,
+    "landUse": "02",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  },
+  {
+    "bbl": "3002910018",
+    "address": "132 PACIFIC STREET",
+    "longitude": -73.9954999,
+    "latitude": 40.6895936,
+    "landUse": "01",
+    "salePrice": null,
+    "saleDate": null,
+    "hasSale": false
+  }
+]
